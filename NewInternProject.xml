@@ -1,0 +1,16 @@
+<Person>
+<Tarik>
+<TC_NO>12344532556</TC_NO>
+<Age>26</Age>
+<Company> KentKart </Company>
+<University> Doğu Akdeniz University </University>
+<City> İzmir </City>
+</Tarik>
+<MrX>
+<TC_NO>43126543675</TC_NO>
+<Age>28</Age>
+<Company> Google </Company>
+<University> Stanford University </University>
+<City> San Francisco </City>
+</MrX>
+</Person>
